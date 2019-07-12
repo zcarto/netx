@@ -1,0 +1,15 @@
+{
+  "name": "netx",
+  "version": "0.0.1",
+  "description": "A graph theory library for web and node.js.",
+  "main": "./src/index.ts",
+  "repository": "https://github.com/zcarto/netx.git",
+  "author": "oahillihao@outlook.com",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "ts-loader": "^6.0.4",
+    "typescript": "^3.5.3",
+    "webpack": "^4.35.3",
+    "webpack-cli": "^3.3.5"
+  }
+}
